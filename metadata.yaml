@@ -1,0 +1,41 @@
+_repo: The-Unknown-Masterpiece1845_23060
+_version: 0.1.0
+alternative_title: Chef d'oeuvre inconnu. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, Honore de
+    - Balzac, H. de (Honoré de)
+    - De Balzac, Honoré
+    - Saint-Aubin, Horace de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_issued: '2007-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Fiction'
+- !lcsh 'Painters -- Fiction'
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Poussin, Nicolas, 1594?-1665 -- Fiction'
+- !lcsh 'Biographical fiction'
+title: 'The Unknown Masterpiece
+
+  1845'
+url: http://www.gutenberg.org/ebooks/23060
